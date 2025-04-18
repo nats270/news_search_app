@@ -87,7 +87,11 @@ News Details Views
 Screen Recording
 
 
-https://github.com/user-attachments/assets/4f49f84b-c3a1-47cb-9e25-87d3810ada82
+
+
+https://github.com/user-attachments/assets/5a790214-ece7-411c-b46e-c4e40ede116b
+
+
 
 
 [recording.mp4](screenshots/screenshots_android/recording.mp4)
