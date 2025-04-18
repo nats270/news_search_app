@@ -101,18 +101,6 @@ News Details View
 ![ios_news.png](screenshots/screenshots_ios/ios_news.png)
 
 
-Folder Structure
-
-
-lib/
-│
-├── api/                  # REST client abstraction
-├── cubit/                # BLoC state management
-├── models/               # Data models
-├── pages/                # UI screens & widgets
-├── services/             # Business logic and API layer
-└── main.dart             # App entry point
-
 
 
 
